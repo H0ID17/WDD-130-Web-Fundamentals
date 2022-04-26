@@ -1,0 +1,22 @@
+1. getting live
+	hosting
+2. dns
+	domain
+3. comments
+	<!-- -->
+	/*. */
+4. css value
+	darkblue
+5. selector
+	h1
+6. precedence
+	last
+7. web safe
+	recognized
+8. multi
+	backups
+9. colors
+	hex
+10. text element
+	!text-color
+	!font-color
