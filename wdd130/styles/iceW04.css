@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+    background-color: pink;
+}
+header {
+    color: white;
+}
+header h1:hover {
+    color: black;
+}
+main {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#first_quote {
+    color: white;
+    font-size: 14px;
+}
+#name {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+#bullets {
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+img {
+    width: 40%;
+}
+#second_quote {
+    color: white;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+footer {
+    font-size: 14px;
+    margin-left: 30%;
+    margin-right: 30%;
+}

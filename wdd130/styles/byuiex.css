@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rock+Salt&display=swap');
+*{
+   /* border: 2px solid blue;*/
+}
+/*header styles*/
+body {
+    /*text-align: center;*/
+    font-family: /*'Brush Script MT',*/Roboto, Georgia, 'Times New Roman', Times, serif, cursive;/*web safe font (case sensetive) (font names with spaces need quotations)*/
+}
+nav, footer {
+    background-color: steelblue;
+    padding: 15px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 8px;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+h1 {
+    color: steelblue;
+    text-align: center;
+    font-family: 'Rock Salt',cursive;
+}
+img {
+    width: 80%;
+    border: 2px solid steelblue;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+p {
+    padding: 10px;
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+.mainpara {
+    font-size: 1.2em;
+}
+#active {
+    background-color: white;
+    padding: 3px;
+    color: steelblue;
+}
+footer p{
+    font-size: 20px;
+    margin: 20px auto;
+}
+a:hover{
+    background-color: white;
+    color: steelblue;
+}
+/* could have done #active, a:hover{} */

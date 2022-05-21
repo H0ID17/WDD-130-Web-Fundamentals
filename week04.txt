@@ -1,0 +1,17 @@
+contrastratio.com is good for color contrast
+
+ctrl / to comment out stuff
+many things can have same class
+only one of any given id
+
+html comment <!-- -->
+css comment /* */
+
+a tags & images in line
+para and h are block elements
+
+text align center centers the content
+not work well with in line content like images
+can put img in div and center that
+
+margin (up down)(left right)

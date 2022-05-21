@@ -1,0 +1,27 @@
+serif has the little lines on them
+
+sansserif does not have the little lines
+easier to read
+
+display fonts
+perty
+
+fewer fonts are better
+opposites attract
+
+hierarchy guides the eye in order of importants
+leading is space between text to make it easy to read
+tracking is space between characters
+kearning is space between specific characters. if font has bad kearning usually best to ditch it
+
+
+
+hex colors
+
+#FFFA5C
+#01405B
+
+#FEF600
+
+
+[#027FB5]	[#F68121]	[#04AFF1]	[#8DD8F5]
