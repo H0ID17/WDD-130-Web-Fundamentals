@@ -1,0 +1,26 @@
+week 2
+    prep
+        comments
+            html: <!-- -->
+            css:  /* */
+    site plan
+        colors fonts and navigation
+week 3
+    prep
+        class html
+            targets multiple tags
+                <p class="anyname">
+        class css
+            .anyname {}
+        id html
+            targes single tag
+                <h1 id="main-topic">
+        id css
+            #main-topic{}
+    troubleshooting
+        https://validator.w3.org/
+        https://jigsaw.w3.org/css-validator/
+    image optimization
+        1k px width max
+        resize pix to fit this
+        tinypng.com can also help
